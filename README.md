@@ -48,6 +48,7 @@ A calculator desktop application created in Java. With full functionality of any
   As an extra feature for aestheitcs, the look of the buttons and display is adjusted to match the operating system that the calculator is running on. <br>
   <img style="width:40%" src="https://github.com/itsATB/java-calculator-CPT/blob/main/demo/Screenshot%202023-06-01%20161546.png"/> 
 </p>
+<br>
 
-
-
+## Usage
+To run this program simply download the executable .jar file included. (Must have the Java Environment installed)
